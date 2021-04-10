@@ -1,0 +1,79 @@
+.head{
+      
+    background-color:white;
+    border:solid;
+     }
+  
+     
+  
+  .grid {
+    background: aqua;
+    background-color: #769ab9;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid rgb(168, 77, 77);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#6ca0d1;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid rgb(168, 77, 77);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#6ca0d1;
+  }
+  
+  .cicada {
+    border: 1px solid rgb(168, 77, 77);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#6ca0d1;
+  }
+  
+  .panda {
+    border: 1px solid rgb(168, 77, 77);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#6ca0d1;
+  }
+  
+  .pigeon {
+    border: 1px solid rgb(168, 77, 77);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#6ca0d1;
+  }
+  
+  .teddy {
+    border: 1px solid rgb(168, 77, 77);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#6ca0d1;
+  }
+  
